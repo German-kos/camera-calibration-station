@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["fdisk", "sdcard"]
+  "cSpell.words": [
+    "dtparam",
+    "fdisk",
+    "Imager",
+    "rpiimager",
+    "runimager",
+    "sdcard",
+    "UART"
+  ]
 }
