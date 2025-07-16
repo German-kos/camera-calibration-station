@@ -1,4 +1,4 @@
-# Linux helper MD
+# Linux Helper Doc
 
 ## Table of Contents
 
